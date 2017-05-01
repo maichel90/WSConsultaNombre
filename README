@@ -1,0 +1,14 @@
+# mvn --version
+Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T11:41:47-05:00)
+Maven home: /Informacion/Servidores/apache-maven-3.3.9
+Java version: 1.8.0_60, vendor: Oracle Corporation
+Java home: /opt/java/jdk1.8.0_60/jre
+
+# git --version
+git version 2.9.3
+
+# docker --version
+Docker version 17.03.1-ce, build c6d412e
+
+
+Para montar y compilar todo manualmente use el install.sh
