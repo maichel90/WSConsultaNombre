@@ -1,2 +1,2 @@
 FROM jboss/wildfly
-ADD ./WSConsultaNombre/tWSConsultaNombrearget/WSConsultaNombre.war /opt/jboss/wildfly/standalone/deployments/
+ADD ./WSConsultaNombre/target/WSConsultaNombre.war /opt/jboss/wildfly/standalone/deployments/
